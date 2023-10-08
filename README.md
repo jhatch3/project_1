@@ -1,2 +1,2 @@
-# project_1
+# project_2
 PI APPROX
